@@ -24,3 +24,10 @@ ex_textstack-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Dialyxir files
+/priv/plts/*.plt
+/priv/plts/*.plt.hash
+
+# Vim buffer
+*.swp
