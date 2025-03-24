@@ -1,11 +1,11 @@
 defmodule ExTextstack.MixProject do
   use Mix.Project
 
-  @version "0.1.0"
+  @version "0.1.1"
   @name "ExTextstack"
   @organization "pragtechnologies"
   @description "Elixir library for Textstack based on https://www.textstack.io/developer/api-reference"
-  @git "https://github.com/Pragtechnologies/ex_seeyoudoc"
+  @git "https://github.com/Pragtechnologies/ex_textstack"
 
   def project do
     [
